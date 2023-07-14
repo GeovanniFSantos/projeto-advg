@@ -8,9 +8,9 @@ Arquivos do projeto para a Apeperia(alterado para pagina de Advogado)
 
 
 <p alin="center">
-   <img src="./img/Screenshot-ADVG1.png">
+   <img src="./projeto-apeperia/img/Screenshot-ADVG1.png">
 </p>
 
 <p alin="center">
-   <img src="./img/Screenshot-ADVG2.png">
+   <img src="./projeto-apeperia/img/Screenshot-ADVG2.png">
 </p>
