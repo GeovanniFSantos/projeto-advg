@@ -52,3 +52,21 @@
 .institucional__video {
     width: 100vw;
 }
+
+@media screen and (min-width: 1024px) {
+    .institucional__conteudo {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        text-align: center;
+    }
+
+    .institucional__video {
+        align-self: flex-end;
+        width: 275px;
+    }
+
+    .institucional__contato-email {
+        display: block;
+    }
+}
